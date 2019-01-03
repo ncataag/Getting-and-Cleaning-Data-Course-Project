@@ -5,4 +5,5 @@ This is the course project for the JHU Getting and Cleaning Data Module. The R s
   3. Loads the Training and Test Data Sets
   4. Merge the data sets and adds labels
   5. Lastly, change classLabels to activityNames
+
 Output result is uploaded as "tidyData.txt"
