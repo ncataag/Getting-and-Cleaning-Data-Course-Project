@@ -2,7 +2,7 @@
 ## Brief Description
 This contains a codebook that modifies and updates the available codebooks with the data to indicate all the variables and 
 summaries calculated, along with units, and any other relevant information
-## Abstract: 
+## Abstract 
 Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) 
 while carrying a waist-mounted smartphone with embedded inertial sensors.
 ## Data Set Information
@@ -25,7 +25,7 @@ For each record in the dataset it is provided:
 - A 561-feature vector with time and frequency domain variables.
 - Its activity label.
 - An identifier of the subject who carried out the experiment.
-## Data Sets Files:
+## Data Sets Files
 - 'README.txt'
 - 'features_info.txt': Shows information about the variables used on the feature vector.
 - 'features.txt': List of all features.
